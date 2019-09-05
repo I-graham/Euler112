@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\iangr\source\repos\euler 112\euler 112\source.cpp(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\iangr\source\repos\euler 112\euler 112\source.cpp(28): warning C4244: 'argument': conversion from 'long double' to 'int', possible loss of data
+  Euler 112.vcxproj -> C:\Users\Iangr\source\repos\Euler 112\Debug\Euler 112.exe
